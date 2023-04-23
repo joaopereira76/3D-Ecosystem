@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-16.0.1">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/boped/Downloads/processing-3.5.4-windows64/processing-3.5.4/core/library/core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/boped/Downloads/processing-3.5.4-windows64/processing-3.5.4/core/library/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/boped/Downloads/processing-3.5.4-windows64/processing-3.5.4/core/library/jogl-all.jar"/>
+	<classpathentry kind="lib" path="C:/Users/boped/Downloads/peasycam_302/peasycam/library/peasycam.jar"/>
+	<classpathentry kind="lib" path="C:/Users/boped/Downloads/peasycam_302/peasycam/library/peasy-math.jar"/>
+	<classpathentry kind="lib" path="C:/Users/boped/Downloads/controlP5-2.2.5/controlP5/library/controlP5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/boped/Downloads/sound.jar"/>
+	<classpathentry kind="lib" path="C:/Users/boped/Downloads/javamp3-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/boped/Downloads/jsyn-20171016.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
